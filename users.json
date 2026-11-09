@@ -1,0 +1,23 @@
+{
+  "chari": {
+    "shop_name": "Chari Kirana Store (శ్రీ లక్ష్మి కిరాణా)",
+    "owner_name": "Chari",
+    "pin": "1234",
+    "language": "te",
+    "created_at": "2026-11-08"
+  },
+  "ravi_kirana": {
+    "shop_name": "Ravi General Stores",
+    "owner_name": "Ravi",
+    "pin": "5678",
+    "language": "hi",
+    "created_at": "2026-11-08"
+  },
+  "abc": {
+    "shop_name": "atestrd",
+    "owner_name": "abc",
+    "pin": "2345",
+    "language": "te",
+    "created_at": "2026-11-08"
+  }
+}
