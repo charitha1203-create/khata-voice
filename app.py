@@ -202,24 +202,69 @@ I18N = {
 # Common kirana provisions list (for manual entry dropdown)
 PROVISION_LIST = [
     "— (Cash Credit / No Item)",
+    # Staples / Grains
     "బియ్యం (Rice)",
-    "పంచదార (Sugar)",
-    "నూనె (Oil)",
-    "కందిపప్పు (Dal)",
+    "గోధుమలు (Wheat)",
     "గోధుమ పిండి (Aata/Wheat Flour)",
-    "సబ్బు (Soap)",
-    "టీ పొడి (Tea Powder)",
-    "కాఫీ (Coffee)",
+    "రవ్వ (Rava/Sooji)",
+    "జొన్నలు (Jowar/Sorghum)",
+    "రాగులు (Ragi/Finger Millet)",
+    # Pulses & Lentils
+    "కందిపప్పు (Toor Dal)",
+    "పెసరపప్పు (Moong Dal)",
+    "మినపప్పు (Urad Dal)",
+    "శనగపప్పు (Chana Dal)",
+    "రాజ్మా (Rajma/Kidney Beans)",
+    # Oils
+    "నూనె (Oil)",
+    "కొబ్బరి నూనె (Coconut Oil)",
+    "సన్‌ఫ్లవర్ ఆయిల్ (Sunflower Oil)",
+    "ఆవ నూనె (Mustard Oil)",
+    "వేరుశనగ నూనె (Groundnut Oil)",
+    "నెయ్యి (Ghee)",
+    # Sweeteners
+    "పంచదార (Sugar)",
+    "బెల్లం (Jaggery/Bellam)",
+    "తేనె (Honey)",
+    # Spices & Masalas
     "ఉప్పు (Salt)",
     "మిర్చి పొడి (Chilli Powder)",
     "పసుపు (Turmeric)",
-    "మసాలా (Masala)",
+    "ధనియాలు (Coriander Powder)",
+    "జీలకర్ర (Cumin/Jeera)",
+    "ఆవాలు (Mustard Seeds)",
+    "మసాలా (Masala/Garam Masala)",
+    "అల్లం వెల్లుల్లి పేస్ట్ (Ginger Garlic Paste)",
+    # Beverages
+    "టీ పొడి (Tea Powder)",
+    "కాఫీ (Coffee)",
+    "బోర్న్‌విటా (Bournvita/Horlicks)",
+    # Snacks & Packaged
     "బిస్కెట్లు (Biscuits)",
-    "నూడుల్స్ (Noodles)",
+    "నూడుల్స్ (Noodles/Maggi)",
+    "బ్రెడ్ (Bread)",
+    "చిప్స్ (Chips/Namkeen)",
+    # Dairy
     "పాలు (Milk)",
-    "చక్కెర (Jaggery)",
-    "కొబ్బరి నూనె (Coconut Oil)",
-    "సన్‌ఫ్లవర్ ఆయిల్ (Sunflower Oil)",
+    "పెరుగు (Curd/Yogurt)",
+    "పన్నీర్ (Paneer)",
+    # Soaps & Cleaning
+    "సబ్బు (Bath Soap)",
+    "బట్టల సబ్బు (Detergent/Washing Powder)",
+    "డిష్ వాష్ (Dish Wash)",
+    "ఫినాయిల్ (Phenyl/Floor Cleaner)",
+    # Personal Care
+    "షాంపూ (Shampoo)",
+    "తలనూనె (Hair Oil)",
+    "టూత్ పేస్ట్ (Toothpaste)",
+    # Household
+    "అగ్గిపెట్టె (Matchbox)",
+    "కొవ్వొత్తులు (Candles)",
+    "గ్యాస్ సిలిండర్ (Gas Cylinder)",
+    # Vegetables & Others
+    "ఉల్లిపాయలు (Onions)",
+    "బంగాళాదుంపలు (Potatoes)",
+    "టమాటాలు (Tomatoes)",
     "Other",
 ]
 
